@@ -1,1 +1,1 @@
-readme file
+A redirect.
